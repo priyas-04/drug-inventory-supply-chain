@@ -20,5 +20,5 @@ A full-stack application to manage medicine inventory and supply chain flow from
 2. Run backend and frontend separately
 3. Configure database in `.env`
 
-## 🎯Output
+## 📸Output
 <img width="1899" height="783" alt="image" src="https://github.com/user-attachments/assets/6b8a7382-53aa-4844-8882-3b784aaaf576" />
